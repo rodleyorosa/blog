@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+.main{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  background-color: hsl(228, 33%, 97%);
+}
+
+.bg-nav{
+  background-color: hsl(238, 40%, 52%)
+}
+
+.text-h1{
+  color: hsl(238, 40%, 52%)
+}
+
+.es{
+  color: brown;
+}
+
+.bg-btn{
+  background-color: hsl(238, 40%, 52%);
+}
+
+textarea{
+  width: 100%;
+  padding: 10px;
+  border-radius: 7px;
+  min-height: 70px;
+}
+
+.username{
+  font-weight: 700;
+  margin: 0 20px;
+}
+
+.created-at{
+  font-size: 10px;
+  color: hsl(211, 10%, 45%);
+}
+
+.comment{
+  color: hsl(211, 10%, 45%);
+  margin: 10px 0;
+}
+
+.btn{
+  background-color: hsl(238, 40%, 52%)  ;
+  color: white;
+  font-weight: 500;
+  padding: 10px 25px;
+  border-radius: 7px;
+}
+
+.title{
+  text-align: center;
+  font-weight: 600;
+  font-size: xx-large;
+  padding-top: 10px;
+  color: hsl(238, 40%, 52%)
+}
